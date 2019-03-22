@@ -1,4 +1,4 @@
 # chef-study
 
-TODO: Enter the cookbook description here.
+Experiments with chef
 
